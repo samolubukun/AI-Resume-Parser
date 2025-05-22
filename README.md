@@ -40,7 +40,7 @@ The **AI Resume Parser** is a powerful Streamlit application designed to efficie
 1.  **Clone the repository**:
 
     ```bash
-    git clone [https://github.com/samolubukun/AI-Resume-Parser.git](https://github.com/samolubukun/AI-Resume-Parser.git)
+    git clone (https://github.com/samolubukun/AI-Resume-Parser.git)
     cd AI-Resume-Parser
     ```
 
