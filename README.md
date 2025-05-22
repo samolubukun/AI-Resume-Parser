@@ -84,16 +84,4 @@ The application uses:
 * **Pandas**: For handling CSV data and presenting results in a structured DataFrame.
 * **JSON**: For structured data output and export.
 
----
 
-## 🤝 Contributing
-
-Feel free to fork the repository, open issues, or submit pull requests if you have suggestions or improvements!
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
